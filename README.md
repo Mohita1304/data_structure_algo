@@ -1,2 +1,2 @@
 # data_structure_algo
-practice
+practice to improve my problem learning skills.
